@@ -21,6 +21,7 @@ The main objective of this project is to build an automation workflow that:
 4. Removes duplicate articles that describe the same event
 5. Produces clean, ready-to-use data for analytics
 This ensures high-quality, meaningful information suitable for databases, dashboards, or decision-making tools.
+
 3. Workflow Overview
 The Analyst Agent follows a step-by-step pipeline:
 Step 1: News Collection
